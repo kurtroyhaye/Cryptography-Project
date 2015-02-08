@@ -1,0 +1,8 @@
+Project 2
+Name: Kurtroy A. Haye.
+COMP2340
+
+This project is implemented in the C++ programming language.  This is a general purpose language that is free formed and complied. It is regarded as an intermediate level language, as it comprises both high and low level language features. Also the encryption scheme that I decide to use is the XOR encryption method, which is sometimes called modulus 2 additions or subtraction which is identical. With this a string of text can be encrypted by applying the bitwise XOR operator to every character using a given key.
+The compression and decompression scheme implemented in this project is the LZW compression scheme or in other words Lempel-Ziv-Welch compression algorithm. It is a universal algorithm created by Abraham Lempel, Jacob Ziv and Terry Welch. This was released as an improved implementation of the LZ78 algorithm published by both Lempel and ZIv in the year 1978.
+
+	
