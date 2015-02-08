@@ -1,0 +1,16 @@
+COMP2340
+Project 2
+Due April 23, 2014
+In groups of up to 2 students, use a C version of your choice to implement a program that performs the following functions
+1. Present a main menu that will have options to open a file, process the file or exit. (Processing the file will allow a user to execute the actions described by sections 2 to 5). [5 marks]
+2. Open a text file and make a copy that embeds your id number and the date at the beginning of the copied file. [5 marks]
+Program should ask the name of the destination file, after which all information in the file is copied from the source to the destination. Id numbers of the group members along with the current date should be written to the destination file prior to writing the data.
+3. Execute an encryption scheme of your choice on the text file.[10 marks]
+Program should ask the name of the destination file, after which all information in the file is encrypted and stored in the destination file. Simple encryption schemes such as Ceasar ciphers are allowed.
+4. Execute decryption scheme on your encrypted files.[5 marks]
+Program should ask the name of the encrypted file, as well as the file to which the result of decryption should be stored, then decrypt the contents of the file and write the contents to the destination.
+5. Execute compression on the text file. [10 marks]
+Program should ask the name of the destination file, after which a compression scheme of your choice is applied to the data in the source file and saved to the destination file. The compressed file needs to be smaller than the source file when saved to disk.
+6. Execute decompression on the text file. [5 marks]
+Program should ask the name of the compressed file, as well as the file to which the result of decompression should be stored, then decompress the contents of the file and write the contents to the destination.
+Technical documentation should accompany your submission that describes your implementation platform, as well as the encryption and compression schemes used. [10 marks]
